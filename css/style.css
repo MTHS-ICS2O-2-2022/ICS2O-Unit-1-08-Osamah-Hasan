@@ -22,13 +22,13 @@
 }
 
 .page-content {
-  color: rgb(114, 0, 0);
+  color: rgb(114 0 0);
   font-family: Helvetica, Arial, sans-serif;
   font-size: 1.25rem;
 }
 
 body {
-  background-color: rgb(255, 255, 255);
+  background-color: rgb(255 255, 255);
 }
 
 img {
